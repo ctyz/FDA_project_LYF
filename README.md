@@ -1,5 +1,3 @@
-# FDA_project_LYF
-
 Group project for Financial Data Analysis
 
 Project topic:
