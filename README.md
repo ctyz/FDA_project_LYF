@@ -1,4 +1,5 @@
-# FDA_project_LYF
+Group project for Financial Data Analysis
 
-- [ ] Write more in README
-- [ ] Add group members' names in README.
+Project topic:
+
+Group Members: Tianyunzi Chen, Yufei Li, Yinan Wu, Ke Zhang
